@@ -8,6 +8,7 @@ import java.io.IOException;
 
 /**
  * Created by osama on 7/5/16.
+ * the main class
  */
 public class Main extends Application {
     static Stage stage;
